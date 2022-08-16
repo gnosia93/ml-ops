@@ -23,3 +23,9 @@
 https://www.youtube.com/watch?v=pEQm_Ndky_o
 
 * Amazon SageMaker 모델 빌딩 파이프라인 실습 - 문곤수, AI/ML 스페셜리스트 솔루션즈 아키텍트, AWS :: AWS AIML 스페셜 웨비나 - https://www.youtube.com/watch?v=sj9wTbnfSW8
+
+
+
+## Sagemaker Immersion Day ##
+
+* https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US
