@@ -8,6 +8,8 @@
 
 * https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/
 
+* https://pajamacoder.tistory.com/32?category=1054816
+
 
 ## Sagemaker Pipelines ##
 
