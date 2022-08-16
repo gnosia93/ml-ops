@@ -1,6 +1,7 @@
 * https://builtin.com/machine-learning/mlops
 
 * https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow
+* https://www.youtube.com/c/kyleschool
 
 ## MLFlow ##
 
