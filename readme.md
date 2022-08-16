@@ -4,6 +4,8 @@
 
 * https://mingchin.tistory.com/352
 
+* https://www.youtube.com/watch?v=H-4ZIfOJDaw
+
 
 ## Sagemaker Pipelines ##
 
