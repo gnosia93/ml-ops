@@ -3,6 +3,8 @@
 * https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow
 * https://www.youtube.com/c/kyleschool
 
+* https://github.com/brianjang/PyTorch-FastCampus
+
 ## MLFlow ##
 
 * https://mingchin.tistory.com/352
