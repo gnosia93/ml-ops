@@ -1,3 +1,11 @@
+## sagemaker ##
+
+* https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html
+
+
+-----
+
+
 * https://builtin.com/machine-learning/mlops
 
 * https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow
