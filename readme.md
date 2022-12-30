@@ -2,6 +2,7 @@
 
 * https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html
 
+* [세이지메이커 노트북 튜토리얼](https://docs.aws.amazon.com/sagemaker/latest/dg/gs-console.html)
 
 -----
 
