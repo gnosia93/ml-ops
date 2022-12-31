@@ -4,6 +4,9 @@
 
 * [세이지메이커 노트북 튜토리얼](https://docs.aws.amazon.com/sagemaker/latest/dg/gs-console.html)
 
+* [sagemaker examples codes](https://sagemaker-examples.readthedocs.io/en/latest/index.html)
+
+
 -----
 
 
