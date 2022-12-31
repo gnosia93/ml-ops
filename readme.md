@@ -6,6 +6,8 @@
 
 * [sagemaker examples codes](https://sagemaker-examples.readthedocs.io/en/latest/index.html)
 
+* [Sagemaker Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US)
+
 
 -----
 
@@ -43,6 +45,9 @@ https://www.youtube.com/watch?v=pEQm_Ndky_o
 
 
 
-## Sagemaker Immersion Day ##
 
-* https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US
+
+## 참고자료 ##
+
+* [activation saturation](https://nittaku.tistory.com/267)
+
